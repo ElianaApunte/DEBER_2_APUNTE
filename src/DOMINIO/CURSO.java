@@ -26,6 +26,7 @@ public class CURSO {
     
     public double getPromedio()
     {
+        //Las instrucciones deberian estar en un metodo set
        double Cont=0;
         for (int i=0;i<12;i++)
         {
